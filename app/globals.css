@@ -8,8 +8,11 @@
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
+  --color-csand: #C1B9AC;
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
+  --font-serif: var(--font-instrument-serif);
+  --font-josefin: var(--font-josefin-sans);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -22,5 +25,27 @@
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  /* font-family: Arial, Helvetica, sans-serif; */
 }
+
+.font-instrument-serif {
+  font-family: var(--font-instrument-serif), serif;
+}
+.font-instrument-sans {
+  font-family: var(--font-instrument-sans), sans-serif;
+}
+.font-jomolhari {
+  font-family: var(--font-jomolhari), serif;
+}
+.font-josefin {
+  font-family: var(--font-josefin-slab), serif;
+}
+/* :root {
+  --font-josefin-sans: "Josefin Sans", sans-serif;
+}
+:root {
+  --font-hanuman: "Hanuman", serif;
+}
+:root {
+  --font-kalnia: "Kalnia", serif;
+} */

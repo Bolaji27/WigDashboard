@@ -1,0 +1,88 @@
+export const wigs1 = [
+    {
+      id: 1,
+      image: "/images/wigssale/sale1.png",
+      name: "Bob Fringe",
+      color: "#AD7927",
+      price: 250.0,
+    },
+    {
+      id: 2,
+      image: "/images/wigssale/sale2.png",
+      name: "Bob Fringe",
+      color: "#21B3E0",
+      price: 250.0,
+    },
+    {
+      id: 3,
+      image: "/images/wigssale/sale3.png",
+      name: "Afro hair",
+      color: "#AD7927",
+      price: 280.0,
+    },
+    {
+      id: 4,
+      image: "/images/wigssale/sale4.png",
+      name: "Straight Long",
+      color: "#BCA176",
+      price: 320.0,
+    },
+    {
+        id: 5,
+        image: "/images/wigssale/sale5.png",
+        name: "Long Curly",
+        color: "#000000",
+        price: 300.00,
+      },
+      {
+        id: 6,
+        image: "/images/wigssale/sale6.png",
+        name: "Short Curly",
+        color: "#825E33",
+        price: 250.00,
+      },
+      {
+        id: 7,
+        image: "/images/wigssale/sale7.png",
+        name: "Afro rounded",
+        color: "#000000",
+        price: 300.00,
+      },
+      {
+        id: 8,
+        image: "/images/wigssale/sale8.png",
+        name: "Braided Hair",
+        color: "#AD7927",
+        price: 280.00,
+      },
+      {
+        id: 9,
+        image: "/images/wigssale/sale9.png",
+        name: "Half Curls",
+        color: "#AAD7927",
+        price: 320.00,
+      },
+      {
+        id: 10,
+        image: "/images/wigssale/sale10.png",
+        name: "Long Straight",
+        color: "#B4BBBD",
+        price: 300.00,
+      },
+      {
+        id: 11,
+        image: "/images/wigssale/sale11.png",
+        name: "Medium Curls",
+        color: "#AE785E",
+        price: 250.00,
+      },
+      {
+        id: 12,
+        image: "/images/wigssale/sale12.png",
+        name: "Medium Curls",
+        color: "#000000",
+        price: 250.00,
+      },
+  ];
+
+  
